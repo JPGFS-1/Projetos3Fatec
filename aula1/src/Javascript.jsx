@@ -1,8 +1,10 @@
 function Javascript() {
+
+  const name = 'JPGFS';
+
   return (
     <div>
-      <h1>JavaScript</h1>
-      <p>JavaScript is a programming language that allows you to implement complex features on web pages.</p>
+      <h1>{name}</h1>
     </div>
   )
 }
