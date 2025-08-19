@@ -1,0 +1,12 @@
+.cliente {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #cb1a1a;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgb(0, 0, 0);
+  gap: 2rem;
+  /* Estilos adicionais para o componente Cliente */
+}
